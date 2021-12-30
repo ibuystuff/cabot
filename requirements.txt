@@ -2,7 +2,7 @@ amqp==2.1.4
 anyjson==0.3.3
 appdirs==1.4.3
 billiard==3.5.0.2
-celery==4.0.2
+celery==5.2.2
 coreapi==2.3.0
 coreschema==0.0.4
 dj-database-url==0.4.2
